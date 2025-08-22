@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Small UI polish */
+html,
+body,
+#root {
+  height: 100%;
+}
